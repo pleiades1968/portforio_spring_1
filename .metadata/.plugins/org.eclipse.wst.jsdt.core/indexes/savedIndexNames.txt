@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\sts-4.8.1.RELEASE\woekspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
